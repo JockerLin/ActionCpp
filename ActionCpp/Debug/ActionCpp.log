@@ -1,0 +1,5 @@
+﻿  ActionCpp.cpp
+  memoryoperate.cpp
+e:\codinglife\actioncpp\actioncpp\memoryoperate.cpp(8): error C4996: 'memccpy': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _memccpy. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_memory.h(79): note: 参见“memccpy”的声明
+  正在生成代码...
